@@ -10,11 +10,9 @@
 
 
 ### My Skill �
-{
-  "backend":["Go"],
-  "frontend":["Js","Angular","TypeScript"],
-  "database":["MySQL","Mongo"],
-  "ci/cd":["Git"],
-  "testing":["JUnit"],
-  "others":["Linux"]
-}
+-  "backend":["Go"],
+- "frontend":["Js","Angular","TypeScript"],
+- "database":["MySQL","Mongo"],
+- "ci/cd":["Git"],
+- "testing":["JUnit"],
+- "others":["Linux"]
