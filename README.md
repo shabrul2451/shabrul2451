@@ -9,3 +9,12 @@
 - ⚡ Fun fact: Humans are the only animals that blush.
 
 
+### My Skill �
+{
+  "backend":["Go"],
+  "frontend":["Js","Angular","TypeScript"],
+  "database":["MySQL","Mongo"],
+  "ci/cd":["Git"],
+  "testing":["JUnit"],
+  "others":["Linux"]
+}
