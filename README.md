@@ -14,8 +14,8 @@
 - "backend":["Go", "Java"],
 - "database":["MySQL","Mongo"],
 - "ci/cd":["Git"],
-- "testing":["JUnit", "Selenium"],
-- "others":["Linux", "Docker"]
+- "testing":["JUnit","Selenium"],
+- "others":["Linux","Docker"]
 - "container_orchestration":["Kubernetes"]
 
 
