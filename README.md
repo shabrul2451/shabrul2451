@@ -11,10 +11,10 @@
 
 ### My Skill �
 - "frontend":["Js","Angular","TypeScript"],
-- "backend":["Go"],
+- "backend":["Go", "Java"],
 - "database":["MySQL","Mongo"],
 - "ci/cd":["Git"],
-- "testing":["JUnit"],
+- "testing":["JUnit", "Selenium"],
 - "others":["Linux", "Docker"]
 - "container_orchestration":["Kubernetes"]
 
