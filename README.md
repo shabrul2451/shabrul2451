@@ -32,4 +32,4 @@
   
  #### Software Engineer (06/2021 – present) Klovercloud BD LTD, Dhaka.
 
-- Developing a open source CI/CD.
+- Developing a open source ```CI/CD```.
