@@ -20,7 +20,7 @@
 
 
 ### Work experience �
- #### Intern (01/2021 – 05/2021) Klovercloud BD LTD, Dhaka.
+ #### Intern (01/2021 – 04/2021) Klovercloud BD LTD, Dhaka.
 
 - Frontend development
 - initial journey with go
@@ -30,6 +30,6 @@
   
   
   
- #### Software Engineer (06/2021 – present) Klovercloud BD LTD, Dhaka.
+ #### Software Engineer (05/2021 – present) Klovercloud BD LTD, Dhaka.
 
 - Developing a open source ```CI/CD```.
